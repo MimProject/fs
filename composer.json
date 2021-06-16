@@ -1,0 +1,22 @@
+{
+    "name": "saikurin/fs",
+    "description": "Filesystem library",
+    "type": "library",
+    "require": {
+        "php": "^8.0",
+        "symfony/polyfill-ctype": "~1.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MimProject\\Fs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Théo Sikli",
+            "email": "theo@theo-sikli.fr"
+        }
+    ],
+    "minimum-stability": "dev"
+}
