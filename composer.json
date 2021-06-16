@@ -1,5 +1,5 @@
 {
-    "name": "saikurin/fs",
+    "name": "mim/fs",
     "description": "Filesystem library",
     "type": "library",
     "require": {
